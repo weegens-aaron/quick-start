@@ -28,7 +28,9 @@
     "noPropertyAccessFromIndexSignature": true,
     "exactOptionalPropertyTypes": true,
     "skipDefaultLibCheck": true,
-    "types": []
+    "types": ["jest"],
+    "jsx": "react-jsx",
+    "allowImportingTsExtensions": true
   },
   "files": [],
   "references": [

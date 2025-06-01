@@ -17,7 +17,7 @@
     "jsxImportSource": "react",
     
     /* Modules */
-    "module": "ESNext",
+    "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
